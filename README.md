@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-DN
-> cd Arya-DN
+> git clone https://github.com/Ntangchil/Nchill
+> cd Nchill
 > npm install
 ```
 ###### Run
@@ -25,8 +25,8 @@ Simple WhatsApp Bot
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Arya274/Arya-DN
-> cd Arya-DN
+> git clone https://github.com/Ntangchil/Nchill
+> cd Nchill
 > npm install
 ```
 ###### Run
@@ -36,6 +36,5 @@ Simple WhatsApp Bot
 
 # Sosmed And Creator
 ```thanks
-> Instagram: @arpunchs
-> YouTube: Drawl Nag
-> CREDIT: NUROTOMO
+> Instagram: @b2k_xploit
+> CREDIT: B2K X-PLOIT
